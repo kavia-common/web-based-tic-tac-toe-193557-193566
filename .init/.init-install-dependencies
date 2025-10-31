@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/tmp/kavia/workspace/code-generation/web-based-tic-tac-toe-193557-193566/tic_tac_toe_backend"
+}
